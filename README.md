@@ -37,7 +37,7 @@
 <ul>
     <li>建構中...</li>
 </ul>
-<h3><a href="http://123kids.byethost6.com/">童裝 Demo</a></h3>
+<h3><a href="http://123kids.byethost6.com/">童裝店 Demo</a></h3>
 <ul>
     <li>XAMPP：Apache、MariaDB、PHP 基本應用</li>
     <li>Laravel：MVC 架構基本後台與資料庫連結</li>
