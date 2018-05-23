@@ -9,9 +9,9 @@
 <h2>Skills</h2>
 <h3>Front-end</h3>
 <ul>
-    <li>HTML、CSS、Bootstrap : 建構 RWD 網站結構</li>
-    <li>Vue.js、JS、JQuery : 基本JS應用</li>
-    <li>PhotoShop : 設計網頁版型</li>
+    <li>HTML、CSS、Bootstrap : 架設網站結構,包含 RWD </li>
+    <li>Vue.js、JS、JQuery : 基本 JavaScript 應用</li>
+    <li>PhotoShop : 設計網頁版型及簡易圖片編輯</li>
 </ul>
 <h3>Back-end</h3>
 <ul>
