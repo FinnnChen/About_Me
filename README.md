@@ -2,7 +2,7 @@
 <ul>
     <li>Nickname : 43</li>
     <li>Location : 宜蘭縣羅東鎮</li>
-    <li>Personal Website : <a href="">https://</a></li>
+    <li>Personal Website : https://finnnchen.github.io/Personal_Website/</li>
     <li>E-mail : meteorshower25@gmail.com</li>
 </ul>
 
@@ -25,7 +25,7 @@
 </ul>
 
 <h2>Works</h2>
-<h3><a href="">Resume 個人網站</a></h3>
+<h3><a href="https://finnnchen.github.io/Personal_Website/">個人網站</a></h3>
 <ul>
     <li>Bootstrap：架構網頁主體</li>
     <li>CSS：視差捲動、模擬手寫動畫</li>
@@ -37,7 +37,7 @@
 <ul>
     <li>建構中...</li>
 </ul>
-<h3><a href="">童裝 Demo</a></h3>
+<h3><a href="http://123kids.byethost6.com/">童裝 Demo</a></h3>
 <ul>
     <li>XAMPP：Apache、MariaDB、PHP 基本應用</li>
     <li>Laravel：MVC 架構基本後台與資料庫連結</li>
