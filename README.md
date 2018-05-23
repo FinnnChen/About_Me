@@ -1,5 +1,5 @@
-#<h1>陳仕軒(Finn Chen)</h1>
-<hr>
+<h1>陳仕軒(Finn Chen)</h1>
+
 <ul>
     <li>Nickname : 43</li>
     <li>Location : 宜蘭縣羅東鎮</li>
@@ -8,8 +8,8 @@
 </ul>
 <br>
 
-#<h2>Skills</h2>
-<hr>
+<h2>Skills</h2>
+
 <h3>Front-end</h3>
 <ul>
     <li>HTML、CSS、Bootstrap : 建構 RWD 網站結構</li>
