@@ -10,7 +10,7 @@
 <h3>Front-end</h3>
 <ul>
     <li>HTML、CSS、Bootstrap : 建構 RWD 網站結構</li>
-    <li>Vue.js、JS、JQuery : 基本 JS 應用</li>
+    <li>Vue.js、JS、JQuery : 基本JS應用</li>
     <li>PhotoShop : 設計網頁版型</li>
 </ul>
 <h3>Back-end</h3>
