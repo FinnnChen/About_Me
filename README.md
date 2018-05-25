@@ -3,7 +3,7 @@
     <li>Nickname : 43</li>
     <li>Location : 宜蘭縣羅東鎮</li>
     <li>Personal Website : https://finnnchen.github.io/Personal_Website/</li>
-    <li>E-mail : meteorshower25@gmail.com</li>
+    <li>E-mail : <a href="meteorshower25@gmail.com">meteorshower25@gmail.com</a></li>
 </ul>
 
 <h2>Skills</h2>
