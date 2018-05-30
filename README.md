@@ -11,7 +11,7 @@
 <ul>
   <li>HTML、CSS、Bootstrap4 : 架設網站結構,包含 RWD </li>
   <li>Vue.js、JS、JQuery : Vue.js框架基本應用</li>
-  <li>PhotoShop : 設計網頁版型及簡易圖片編輯</li>
+  <li>PhotoShop : 設計網頁版型及簡易圖片編輯</li>
 </ul>
 <h3>Back-end</h3>
 <ul>
