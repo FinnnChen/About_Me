@@ -9,8 +9,8 @@
 <h2>Skills</h2>
 <h3>Front-end</h3>
 <ul>
-  <li>HTML、CSS、Bootstrap4 : 架設網站結構,包含 RWD </li>
-  <li>Vue.js、JS、JQuery : Vue.js框架基本應用</li>
+  <li>HTML、CSS、Bootstrap4 : 架設網站結構,包含 RWD </li>
+  <li>Vue.js、JS、JQuery : Vue.js 框架以及 JS 基本應用</li>
   <li>PhotoShop : 設計網頁版型及簡易圖片編輯</li>
 </ul>
 <h3>Back-end</h3>
@@ -21,7 +21,7 @@
 </ul>
 <h3>Git、GitHub</h3>
 <ul>
-  <li>使用 Git Bash 簡易版本控制操作</li>
+  <li>使用 Git Bash 簡易版本控制操作</li>
 </ul>
 
 <h2>Works</h2>
