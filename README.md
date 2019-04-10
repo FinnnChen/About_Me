@@ -29,9 +29,8 @@
 <ul>
   <li>Bootstrap4：架構網頁主體</li>
   <li>CSS：視差捲動、模擬手寫動畫</li>
-  <li>JQuery：dblclick 開啟 PDF 效果</li>
   <li>CCS + JQuery：Fixed 物件動畫</li>
-  <li>Vue.js：Skills Chart 物件建立</li>
+  <li>Vue.js：Skills Chart 物件、dblclick 開啟效果</li>
 </ul>
 <h3><a href="https://finnnchen.github.io/Ilan_culture/">宜蘭文化景觀導覽</a></h3>
 <ul>
